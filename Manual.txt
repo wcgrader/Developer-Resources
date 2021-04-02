@@ -1,0 +1,29 @@
+สร้าง Task ต้องมี Contest
+run ได้ทีละ contest
+
+RUN :
+
+run ได้ 1 contest
+cmsResourceService -a
+เปิด Resource ขึ้นไป Run
+
+cmsLogService
+แสดง change log
+
+ทำให้เว็บทำงานตลอดเวลา
+tmux ก่อน cmsResourceService -a
+tmux kill-session -t (เลข)
+ปิด session
+tmux list-sessions
+list sessions
+tmux attach -t (เลข) 
+แก้ไข
+
+คำสั่งใน tmux
+ctrl + b then d ออกจาก tmux
+
+ctrl c = cancel
+
+ประเภทการตรวจ 
+ตรวจปกติ diff
+หากมีคำตอบหลายแบบ not diff
