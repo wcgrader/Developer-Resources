@@ -1,0 +1,9 @@
+Installation
+
+1. ซื้อ Domain name .com จาก z.com
+2. ไป Ready IDC เลือก VPS SSD Package 
+3. เลือก Ubuntu 18 x64
+4. ได้ IP, Username, Pass
+5. ใส่ IP เข้า PuTTY
+6. สร้าง user ใหม่ใน PuTTY เพื่อทำ CMS
+7. Follow CMS Manual
